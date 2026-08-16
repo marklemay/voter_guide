@@ -1,8 +1,9 @@
 # MA State Primary — Sept 1, 2026 — Malden Ward 3 Pct 2
 
-[D ballot](https://www.sec.state.ma.us/WhereDoIVoteMA/ShowBallot/ViewMyBallot/BallotOut/D/165/3/2) [R ballot](https://www.sec.state.ma.us/WhereDoIVoteMA/ShowBallot/ViewMyBallot/BallotOut/R/165/3/2) [statewide overview](https://www.wgbh.org/news/politics/2026-08-14/massachusetts-elections-2026-everything-you-need-to-know-to-vote) [official candidate list](https://www.sec.state.ma.us/divisions/elections/research-and-statistics/candidates2026.htm)
-
-One ballot only. Pick D.
+[D ballot](https://www.sec.state.ma.us/WhereDoIVoteMA/ShowBallot/ViewMyBallot/BallotOut/D/165/3/2)
+[R ballot](https://www.sec.state.ma.us/WhereDoIVoteMA/ShowBallot/ViewMyBallot/BallotOut/R/165/3/2)
+[statewide overview](https://www.wgbh.org/news/politics/2026-08-14/massachusetts-elections-2026-everything-you-need-to-know-to-vote)
+[official candidate list](https://www.sec.state.ma.us/divisions/elections/research-and-statistics/candidates2026.htm)
 
 ---
 
@@ -10,23 +11,27 @@ One ballot only. Pick D.
 
 ## US Senate
 
-* [Aug 3 debate — full video](https://www.c-span.org/program/campaign-2026/massachusetts-us-senate-democratic-primary-debate/683767) · [live fact-check](https://politifact.com/article/2026/aug/03/senate-debate-massachusetts-markey-moulton/)
-* [CNN analysis](https://www.cnn.com/2026/07/26/politics/massachusetts-democratic-senate-primary-moulton-markey)
+* [Aug 3 debate](https://www.c-span.org/program/campaign-2026/massachusetts-us-senate-democratic-primary-debate/683767) · [live fact-check](https://politifact.com/article/2026/aug/03/senate-debate-massachusetts-markey-moulton/)
 * [Globe analysis](https://www.bostonglobe.com/2026/07/30/nation/markey-moulton-senate-primary/)
 
-[Suffolk 47–30](https://www.bostonglobe.com/2026/04/15/metro/suffolk-poll-markey-moulton-senate-primary/) [Emerson 37–32](https://emersoncollegepolling.com/massachusetts-2026-poll/) [Polymarket 85](https://polymarket.com/event/massachusetts-democratic-senate-primary-winner) [Kalshi 70](https://kalshi.com/tag/massachusetts) · tiebreak **10⁻⁵·⁴** (N≈800k)
-
-Vote your preference; the margin will be five figures.
+[CNN analysis](https://www.cnn.com/2026/07/26/politics/massachusetts-democratic-senate-primary-moulton-markey) [Suffolk 47–30](https://www.bostonglobe.com/2026/04/15/metro/suffolk-poll-markey-moulton-senate-primary/) [Emerson 37–32](https://emersoncollegepolling.com/massachusetts-2026-poll/) [Polymarket 85](https://polymarket.com/event/massachusetts-democratic-senate-primary-winner) [Kalshi 70](https://kalshi.com/tag/massachusetts) · tiebreak **10⁻⁵·⁴** (N≈800k)
 
 ### Ed Markey
-[edmarkey.com](https://www.edmarkey.com/) [facebook](https://www.facebook.com/EdJMarkey/)
+[edmarkey.com](https://www.edmarkey.com/)
+[facebook](https://www.facebook.com/EdJMarkey/)
+
 [convention 73–27](https://www.bostonglobe.com/2026/05/30/metro/markey-moulton-endorsement-democratic-convention/)
-**82%**
+
+estimated win probability **82%**
+
 
 ### Seth Moulton
-[sethmoulton.com](https://sethmoulton.com/) [facebook](https://www.facebook.com/sethmoulton/)
+[sethmoulton.com](https://sethmoulton.com/)
+[facebook](https://www.facebook.com/sethmoulton/)
+
 [Gov. Sherrill](https://newjerseyglobe.com/governor/sherrill-backs-moulton-over-markey-in-massachusetts-senate-primary/)
-**18%**
+
+estimated win probability **18%**
 
 ---
 
@@ -37,76 +42,83 @@ Vote your preference; the margin will be five figures.
 * [GBH primary landscape](https://www.wgbh.org/news/politics/2026-08-03/why-more-than-half-of-massachusetts-house-reps-are-facing-primary-challengers-this-year)
 * [Globe challenger wave](https://www.bostonglobe.com/2026/02/06/metro/mass-congress-challengers-2026-midterms/)
 
-tiebreak **10⁻⁸·⁹** (N≈110k)
-
-Costless protest vote.
+estimated tie probability **10⁻⁸·⁹** (N≈110k)
 
 ### Katherine Clark
-[katherineclark.com](https://katherineclark.com/) [facebook](https://www.facebook.com/RepKClark/)
+[katherineclark.com](https://katherineclark.com/)
+[facebook](https://www.facebook.com/RepKClark/)
 [Ballotpedia](https://ballotpedia.org/Katherine_Clark)
-**93%**
+
+estimated win probability **93%**
 
 ### Jonathan Paz
 [pazforcongress.com](https://www.pazforcongress.com/)
+
 [Lexington Observer](https://lexobserver.org/2026/07/30/jonathan-paz-challenges-katherine-clark-for-her-seat-in-congress/)
-**5%**
+
+estimated win probability **5%**
 
 ### Tarik Samman
-[tarikforcongress.com](https://www.tarikforcongress.com/)
-[FEC filings](https://www.fec.gov/data/)
-**2%**
+[tarikforcongress.com](https://www.tarikforcongress.com/) [FEC filings](https://www.fec.gov/data/)
+
+estimated win probability **2%**
 
 ---
 
 ## Governor's Council 6th
 
-Eight elected councillors who [confirm or reject every judicial nomination](https://www.mass.gov/orgs/governors-council) the Governor makes, plus pardons, commutations and notaries. Lifetime-to-70 appointments. Nobody watches it.
+Eight elected councillors who [confirm or reject every judicial nomination](https://www.mass.gov/orgs/governors-council) the Governor makes, plus pardons, commutations and notaries.
 
 * [district history](https://whogovernsthegc.org/dist6)
 * [ballot qualification](https://winchesternews.org/20260731_marblehead-attorney-qualifies-for-governors-council-ballot/)
 
-tiebreak **10⁻⁴·⁶** (N≈80k)
-
-Real power, no scrutiny; worth ten minutes of reading.
+estimated tie probability **10⁻⁴·⁶** (N≈80k)
 
 ### Terrence Kennedy
 [facebook](https://www.facebook.com/p/Terrence-Kennedy-Governors-Councilor-100057721706267/)
 [profile](https://swampscotttides.org/news/meet-the-candidates-terrence-kennedy-governors-council/)
-**85%**
+
+estimated win probability **85%**
 
 ### Diann Baylis
 [votefordiann.com](https://votefordiann.com/)
-[profile](https://swampscotttides.org/news/meet-the-candidates-diann-baylis-governors-council/) [Marblehead Current](https://marbleheadcurrent.org/2026/02/20/marblehead-immigration-attorney-running-for-governors-council/) [ballot access](https://itemlive.com/2026/05/27/baylis-qualifies-for-governors-council-ballot/)
-**15%**
+[profile](https://swampscotttides.org/news/meet-the-candidates-diann-baylis-governors-council/)
+[Marblehead Current](https://marbleheadcurrent.org/2026/02/20/marblehead-immigration-attorney-running-for-governors-council/)
+[ballot access](https://itemlive.com/2026/05/27/baylis-qualifies-for-governors-council-ballot/)
+
+estimated win probability **15%**
 
 ---
 
 ## State Senate 5th Middlesex
 
-Open — Jason Lewis retiring. No Republican filed, so this primary picks the senator.
-
 * [Aug 8 LWV forum — full video](https://videoplayer.telvue.com/player/MYHMRKXBbGFaah07vKkZ_-J4SThODdPq/media/1039558) · [recap](https://www.thereadingobserver.com/meeting-recaps/ma-5-state-senator-candidate-forum-august-8-2026)
 * [deportation & audit split](https://winchesternews.org/20260814_beacon-hills-pace-splits-5th-middlesex-senate-candidates-over-deportations-and-audit/)
-* [money & local roots](https://winchesternews.org/20260717_local-roots-national-money-shape-5th-middlesex-senate-primary/)
-* [OCPF filings](https://www.ocpf.us/Filers/Index)
 
-tiebreak **10⁻³·⁸** (N≈22k) ← ~40× any other race
+[money & local roots](https://winchesternews.org/20260717_local-roots-national-money-shape-5th-middlesex-senate-primary/)=
 
-Spend your research time here.
+No Republican filed, likely deterimines winner.
+
+estimated tie probability **10⁻³·⁸** (N≈22k)
 
 ### Kate Lipper-Garabedian
 [katelg.com](https://www.katelg.com/) [facebook](https://www.facebook.com/KateLipperGarabedian/)
+
 [labor + delegation](https://winchesternews.org/20260807_organized-labor-coalesces-around-kate-lipper-garabedian-in-5th-middlesex-district-senate-race/)
-**55%**
+
+estimated win probability  **55%**
 
 ### Carey McDonald
 [careymcdonald.com](https://www.careymcdonald.com/)
+
 [Progressive Mass, WFP, Mayor Christenson](https://thereadingpost.com/2026/08/05/carey-mcdonald-consolidates-progressive-support-in-5th-middlesex-state-senate-race/)
-**30%**
+
+estimated win probability **30%**
 
 ### Ryan O'Malley
 [omalleysenate.com](https://omalleysenate.com/)
-**15%**
+
+estimated win probability **15%**
 
 ---
 
@@ -115,22 +127,29 @@ Spend your research time here.
 Charging discretion for all of Middlesex County — [what gets prosecuted, what gets diverted, what plea gets offered](https://www.mass.gov/orgs/massachusetts-district-attorneys). No Republican filed.
 
 * [head-to-head](https://www.figcitynews.com/2026/08/newton-connected-candidates-face-off-in-middlesex-da-democratic-primary/)
-* [Meet the Candidates — video](https://www.accessfram.tv/episodes/meet-the-candidates-middlesex-county-district-attorney)
+* [Meet the Candidates](https://www.accessfram.tv/episodes/meet-the-candidates-middlesex-county-district-attorney)
 * [Axios on the substantive split](https://www.axios.com/local/boston/2026/07/15/massachusetts-district-attorney-elections-2026-suffolk-middlesex-norfolk-bristol-hayden-rollins-ryan-solet)
 * [$650k vs $124k](https://www.thecrimson.com/article/2026/2/18/middlesex-district-attorney-election/)
 
-tiebreak **10⁻⁴·⁹** (N≈200k)
+No Republican filed, likely deterimines winner.
+
+estimated tie probability  **10⁻⁴·⁹** (N≈200k)
 
 Continuity vs a police-union-backed challenge.
 
 ### Marian Ryan
 [middlesexda.com](http://middlesexda.com/)
-**80%**
+
+estimated win probability **80%**
 
 ### David Solet
 [davidsolet.com](https://davidsolet.com/)
-[25+ police unions](https://wilmingtonapple.com/2026/06/06/middlesex-district-attorney-challenger-david-solet-to-challenge-marian-ryan-receives-8-police-union-endorsements/) [Harvard police union](https://www.thecrimson.com/article/2026/7/30/harvard-police-union-endorses-solet/) [profile](https://walthamtimes.org/2026/08/06/elections-2026-david-solet/)
-**20%**
+[profile](https://walthamtimes.org/2026/08/06/elections-2026-david-solet/)
+
+[25+ police unions](https://wilmingtonapple.com/2026/06/06/middlesex-district-attorney-challenger-david-solet-to-challenge-marian-ryan-receives-8-police-union-endorsements/)
+[Harvard police union](https://www.thecrimson.com/article/2026/7/30/harvard-police-union-endorses-solet/) 
+
+estimated win probability **20%**
 
 ---
 
@@ -140,20 +159,29 @@ Continuity vs a police-union-backed challenge.
 
 * [issue contrast](https://www.wbur.org/news/2026/08/10/governor-race-mike-minogue-brian-shortsleeve-gop-candidates-issues)
 * [Globe column](https://www.bostonglobe.com/2026/05/10/metro/gop-massachusetts-governor-race-primary/)
-* [no debates scheduled](https://www.newbedfordguide.com/massachusetts-gop-primary-voters-deserve-debates-but-they-wont-get-any/2026/08/14)
 
-[UNH 46–15](https://www.massdailynews.com/2026/07/07/brian-shortsleeve-nearly-invisible-massachusetts-voters) [convention 70–15](https://www.wwlp.com/news/massachusetts/minogue-dominates-as-republicans-narrow-gubernatorial-field-to-two/) [Polymarket 97](https://polymarket.com/event/massachusetts-governor-republican-primary-winner) [Kalshi 87](https://kalshi.com/tag/massachusetts) · tiebreak **10⁻⁶·⁵** (N≈130k)
+[no debates scheduled](https://www.newbedfordguide.com/massachusetts-gop-primary-voters-deserve-debates-but-they-wont-get-any/2026/08/14)
+[UNH 46–15](https://www.massdailynews.com/2026/07/07/brian-shortsleeve-nearly-invisible-massachusetts-voters)
+[convention 70–15](https://www.wwlp.com/news/massachusetts/minogue-dominates-as-republicans-narrow-gubernatorial-field-to-two/)
+[Polymarket 97](https://polymarket.com/event/massachusetts-governor-republican-primary-winner)
+[Kalshi 87](https://kalshi.com/tag/massachusetts)
+
+tiebreak **10⁻⁶·⁵** (N≈130k)
 
 Abortion is the split; either one loses to Healey.
 
 ### Michael Minogue
-[convention win](https://www.wbur.org/news/2026/04/25/minogue-gop-endorsement-massachusetts-governor) [MassGOP](https://massgop.com/)
-**93%**
+[convention win](https://www.wbur.org/news/2026/04/25/minogue-gop-endorsement-massachusetts-governor)
+
+estimated win probability **93%**
 
 ### Brian Shortsleeve
 [ad campaign](https://www.wamc.org/news/2026-08-10/massgop-gubernatorial-primary-race-shortsleeve-launches-campaign-ads-against-minogue)
-**7%**
 
+estimated win probability **7%**
+
+---
+## Appendix
 ---
 
 ## Write-ins
