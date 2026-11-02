@@ -4,7 +4,7 @@ Output: `malden-w3p2-<election>.md` + optional wordy `...-notes.md`. No version 
 
 ## Coverage
 - Every race with >1 candidate, counting declared write-ins. Omit truly uncontested races entirely (no "uncontested" section).
-- Find the full ballot: SoS viewer blocks scripts; use a neighboring town's sample-ballot PDF sharing districts (e.g. Reading/Wakefield/Winchester) — catches county and regional school committee races.
+- Ballot source of truth: Malden's sample-ballot PDF (cityofmalden.org/1348 election page, per state-rep district; W3P2 = 33rd Middlesex). Cache it in `ballots/` and link it from the guide header. Read it with the Read tool (pdf text extraction fails on the CJK fonts). SoS viewer blocks scripts.
 
 ## Content priority
 1. Debates / forums: links to watchable or downloadable video/audio. This is most of the value.

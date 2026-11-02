@@ -14,7 +14,7 @@ Compiled 2026-11-01.
 
 ## 2. Local races
 
-The full office list came from Reading's printed sample ballot for Pcts 1, 7 and 8. Reading shares Gov Council 6, the 5th Middlesex Senate seat, DA Northern, Middlesex county and the Northeast Metro Tech district with Malden. The SoS viewer blocks scripts.
+The office list is checked against Malden's own printed sample ballot for the 33rd Middlesex district, whose header lists W3 P2; it's cached in `ballots/`. It has 3 cards, and the questions end at Q9.
 
 - **Contested:** Register of Probate (DeCristofaro D vs Martorella, Justice for All), and Northeast Metro Tech School Committee, Malden seat (Perry vs Salazar).
 - **Uncontested, no write-in found:** Gov Council 6 (Kennedy), 5th Middlesex Senate (Lipper-Garabedian), DA Northern (Ryan), 33rd Middlesex Rep (Ultrino). Left out of the guide.
@@ -122,13 +122,12 @@ ACX: Greater Boston ACX community guide, linked from ACX Open Thread 456 (https:
 
 ## 7. Things I could not verify (look before trusting)
 
-1. **The ballot URL and the office list.** The SoS viewer is blocked to scripts (see §2). The candidate list comes from Politics1 (updated Oct 19), cross-checked against Wikipedia's infobox for the Senate race and Ballotpedia/Wikipedia for the Treasurer race.
+1. **The candidate list.** The office list is verified against the cached Malden ballot. The candidate list comes from Politics1 (updated Oct 19), cross-checked against Wikipedia's infobox for the Senate race and Ballotpedia/Wikipedia for the Treasurer race.
 2. **The Kalshi prices** come from undated search snippets. A live fetch hit HTTP 429.
 3. **5th Middlesex primary totals** are DDHQ's ~92%-reporting snapshot, not certified results.
 4. **Senate poll numbers** come via the PollCheck aggregator, not the original Suffolk or UMass releases. The WBUR UMass article didn't report Senate numbers.
 5. **Q2, Q4, Q9 and Q1 No-side numbers from Suffolk** weren't reported in the coverage I could read, and the Suffolk crosstabs PDF wasn't linked from the coverage.
 6. **The official IFV PDF** (the red book) I found was an archive link that returned undecodable binary. The guide links omniballot and the SoS questions page as official text instead.
-7. **Malden's ballot itself:** the office list comes from Reading's ballot. A Malden-only item would be missed.
 
 ## 8. If you only read one paragraph
 

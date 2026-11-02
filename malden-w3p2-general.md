@@ -1,6 +1,6 @@
 # MA State Election — Nov 3, 2026 — Malden Ward 3 Pct 2
 
-[ballot](https://www.sec.state.ma.us/WhereDoIVoteMA/ShowBallot/ViewMyBallot/BallotOut/ST/165/3/2) 
+[ballot](https://www.sec.state.ma.us/WhereDoIVoteMA/ShowBallot/ViewMyBallot/BallotOut/ST/165/3/2) [cached](ballots/malden-33rd-middlesex-2026-11-03.pdf)
 
 ---
 
@@ -74,7 +74,7 @@ Voted district-wide, [all 12 towns](https://www.thereadingobserver.com/letters-t
 [Salazar appointed Jan 28, split vote](https://citizenportal.ai/articles/8323539/massachusetts/school-boards/malden-public-schools/malden-committee-appoints-everett-teacher-sean-salazar-as-liaison-to-northeast-metro-tech-after-split-vote)
 [Salazar interview](https://citizenportal.ai/articles/9474102/massachusetts/school-boards/malden-public-schools/sean-salazar-emphasizes-classroom-experience-chapter-74-expertise-and-industry-ties)
 [candidate list](https://www.cityofmalden.org/DocumentCenter/View/11665/2026-Voke-School-Committee-Candidates-English-PDF)
-[sample ballot](https://www.readingma.gov/DocumentCenter/View/24805/2026-11-03-State-Election-Sample-Ballot)
+[ballot](ballots/malden-33rd-middlesex-2026-11-03.pdf)
 
 No forum found. No Perry statement found.
 
