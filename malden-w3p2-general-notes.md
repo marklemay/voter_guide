@@ -10,21 +10,25 @@ Compiled 2026-11-01.
 
 - "Focus on races inversely proportional to their chance of tie." Read literally, this would mean "spend the most effort on landslides," which makes no sense for a voting guide. I took it as **spend effort in proportion to tie probability**: the races most likely to be decisive get the most detail. That's why the guide is sorted by P(tie), closest first, and the near-zero races are collapsed into one-liners.
 - The style follows the primary guide (`malden-w3p2-primary-v5.md`): headers, bare links, and one bolded estimate per race. For ballot questions, "candidates" became Yes and No, and "win probability" became "pass probability."
-- Sources are mostly primary or near-primary: official ballot text (omniballot, SoS), Tufts cSPA reports (the nonpartisan analysis the media cites), the polls themselves, OCPF-derived finance coverage, and the Globe editorial board as the high-quality secondary endorser. I didn't find an Astral Codex Ten or similar rationalist-blog take on any MA question this cycle. Somerville YIMBY is included as an advocacy source on Q7 because it's local, but it is plainly partisan on the question.
+- Sources are mostly primary or near-primary: official ballot text (omniballot, SoS), Tufts cSPA reports (the nonpartisan analysis the media cites), the polls themselves, OCPF-derived finance coverage, and the Globe editorial board as the high-quality secondary endorser. The ACX Greater Boston community guide (Open Thread 456) was found in a second pass. Somerville YIMBY is included as an advocacy source on Q7 because it's local, but it is plainly partisan on the question.
 
-## 2. Why no local race gets real attention
+## 2. Local races
 
-In the primary, the closest race (State Senate 5th Middlesex, N≈22k) had P(tie) ≈ 10⁻³·⁸. In November, every district- and county-level race on this ballot appears to have no opponent:
+The full office list came from Reading's printed sample ballot for Pcts 1, 7 and 8. Reading shares Gov Council 6, the 5th Middlesex Senate seat, DA Northern, Middlesex county and the Northeast Metro Tech district with Malden. The SoS viewer blocks scripts.
 
-- **Gov Council 6th**: Kennedy beat Baylis 58–42 on Sept 1. No R filed.
-- **State Senate 5th Middlesex**: Lipper-Garabedian ~64%, McDonald ~23%, O'Malley ~13% (DDHQ at ~92% reporting; not certified). No R filed. My primary estimate was KLG 55%, so she outran it by a lot.
-- **DA Northern**: Ryan won, and Solet conceded on primary night. No R filed.
-- **State Rep 33rd**: Ultrino, unopposed in the primary.
-- **MA-5**: Clark, plus a write-in.
+- **Contested:** Register of Probate (DeCristofaro D vs Martorella, Justice for All), and Northeast Metro Tech School Committee, Malden seat (Perry vs Salazar).
+- **Uncontested, no write-in found:** Gov Council 6 (Kennedy), 5th Middlesex Senate (Lipper-Garabedian), DA Northern (Ryan), 33rd Middlesex Rep (Ultrino). Left out of the guide.
+- **MA-5:** Clark, plus a declared write-in, Derek Fleming (Politics1).
+- **Non-binding questions:** the ACX guide lists which rep districts get them, and the 33rd Middlesex isn't one.
 
-**Caveat:** I could not load the SoS ballot viewer. Incapsula blocks scripted access; curl got a 953-byte block page, and WebFetch returned empty. Unenrolled or independent candidates file by nomination papers and skip the primary, so one *could* be on the November ballot for any of these offices without my knowing. The ballot URL in the guide (`.../BallotOut/ST/165/3/2`) was built by analogy with the primary URLs (`/D/165/3/2`, `/R/165/3/2`) and the `ST/...` pattern visible in search results for other towns. It is unverified. **The first thing to do is open that link and confirm the office list.**
+### Northeast Metro Tech, the most decisive race on the ballot
+Every voter in the 12 member towns votes on each town's seat: Chelsea, Malden, Melrose, North Reading, Reading, Revere, Saugus, Stoneham, Wakefield, Winchester, Winthrop and Woburn. I'd put total ballots at ~250k, with heavy roll-off on an obscure race, so N ≈ 150k votes cast in it. There's no polling and no party label. Salazar is the appointed incumbent (Malden School Committee, Jan 28, split vote), a union CTE teacher, with letters in the Reading papers. Perry has no web presence beyond the filing, but his name is printed first on the ballot. Incumbency is not printed for this race. I set m = +.15 for Salazar and s = .25 (essentially no information) → P(tie) ≈ 1.8×10⁻⁵ = 10⁻⁴·⁷. That's about 10× more decisive than any statewide question.
 
-The result is that the statewide items, with N≈2.6M, are the most decisive things on the ballot. That's unusual: it happens only because the local races are empty.
+### Register of Probate
+Countywide, N ≈ 800k. A minor-party challenger with ~$2k raised. m = .45, s = .12 → 10⁻⁸·¹.
+
+### MA-5 write-in
+m ≈ .95, s = .05 → 10⁻⁸². It's in the guide only because the rule is that every race with more than one candidate gets listed.
 
 ## 3. The tie model (same as the primary appendix)
 
@@ -50,6 +54,8 @@ P(tie) ≈ (2/N) · φ(m/s) / s
 | Q1 | +.45 | .12 | 3.75 | .00035 | >99.9% | 2.3×10⁻⁹ | −8.6 |
 | Senate | +.31 | .08 | 3.88 | .00022 | >99.9% | 2.1×10⁻⁹ | −8.7 |
 | Auditor | +.50 | .10 | 5.00 | 1.5×10⁻⁶ | ~100% | 1.1×10⁻¹¹ | −10.9 |
+| NE Metro Tech SC | +.15 | .25 | 0.60 | .333 | — | 1.8×10⁻⁵ (N=150k) | −4.7 |
+| Register of Probate | +.45 | .12 | 3.75 | .00035 | — | 7.3×10⁻⁹ (N=800k) | −8.1 |
 
 Here pass/win = Φ(m/s), so the pass probabilities are fully consistent with the tie figures this time. In the primary guide they were set separately.
 
@@ -100,19 +106,19 @@ Per-question totals are hard to get. OCPF can't split multi-question committees 
 
 ## 6. Endorsement grid (sourced)
 
-| Q | Globe | Healey | Minogue |
-|---|---|---|---|
-| 1 | Yes | Yes | Yes |
-| 2 | Yes | undecided | skeptical |
-| 3 | Yes | No | No |
-| 4 | Yes | Yes | No (absent ID check) |
-| 5 | No | leans No | "all for that" (ambiguous) |
-| 6 | No | Yes | No |
-| 7 | Yes | Yes | open |
-| 8 | No | No | No |
-| 9 | Yes | Yes | No |
+| Q | Globe | Healey | Minogue | ACX Boston (Y–N–abstain) |
+|---|---|---|---|---|
+| 1 | Yes | Yes | Yes | Yes 4–3–2 |
+| 2 | Yes | undecided | skeptical | No 5–3–1 |
+| 3 | Yes | No | No | Yes 8–0–1 |
+| 4 | Yes | Yes | No (absent ID check) | Yes 8–1 |
+| 5 | No | leans No | "all for that" (ambiguous) | No 5–1–2 |
+| 6 | No | Yes | No | No 7–1 |
+| 7 | Yes | Yes | open | Yes 7–1 |
+| 8 | No | No | No | No 4–1–3 |
+| 9 | Yes | Yes | No | Yes 7–1 |
 
-Healey and Minogue positions are from NBC Boston, "How are Maura Healey and Mike Minogue voting on 9 Mass. ballot questions?" Globe positions are from its Oct 29 roundup.
+ACX: Greater Boston ACX community guide, linked from ACX Open Thread 456 (https://docs.google.com/document/d/1dxSeXrFKr89jXFCMjR6bb36pxKIaryKBbW-2xA3mwLc/edit). It covers questions only and says no Greater Boston candidate race was worth endorsing. Healey and Minogue positions are from NBC Boston, "How are Maura Healey and Mike Minogue voting on 9 Mass. ballot questions?" Globe positions are from its Oct 29 roundup.
 
 ## 7. Things I could not verify (look before trusting)
 
@@ -122,8 +128,8 @@ Healey and Minogue positions are from NBC Boston, "How are Maura Healey and Mike
 4. **Senate poll numbers** come via the PollCheck aggregator, not the original Suffolk or UMass releases. The WBUR UMass article didn't report Senate numbers.
 5. **Q2, Q4, Q9 and Q1 No-side numbers from Suffolk** weren't reported in the coverage I could read, and the Suffolk crosstabs PDF wasn't linked from the coverage.
 6. **The official IFV PDF** (the red book) I found was an archive link that returned undecodable binary. The guide links omniballot and the SoS questions page as official text instead.
-7. **Register of Probate / county offices:** the primary guide said Register of Probate was the only county office up. I didn't check whether it's contested in November.
+7. **Malden's ballot itself:** the office list comes from Reading's ballot. A Malden-only item would be missed.
 
 ## 8. If you only read one paragraph
 
-The local races are uncontested, so your most decisive votes this time are Q3, Q5 and Q7, all at P(tie) ≈ 10⁻⁵·⁷ — about the same as the Markey–Moulton primary. Q6 and Q2 are next, about half as decisive. Everything else is decided. On Q9, remember that **Yes keeps** the law.
+The most decisive vote on the ballot is the Northeast Metro Tech School Committee seat (10⁻⁴·⁷). After that come Q3, Q5 and Q7, all at P(tie) ≈ 10⁻⁵·⁷ — about the same as the Markey–Moulton primary. Q6 and Q2 are next, about half as decisive. Everything else is decided. On Q9, remember that **Yes keeps** the law.
