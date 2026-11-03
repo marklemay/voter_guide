@@ -63,15 +63,11 @@ tie **10⁻¹¹**
 
 [Clark (D)](https://katherineclark.org) · [Fleming (write-in)](https://www.derekforcongress.com)
 
-No debate found.
-
 tie **10⁻⁸²**
 
 ## Register of Probate, Middlesex
 
-[DeCristofaro (D)](https://lexingtonconcordcourier.com/articles/decristofaro-seeks-middlesex-register-of-probate-seat-mvleo59x) · [Martorella (Justice for All)](https://www.civoren.com/candidate/tara-martorella-xyi4j)
-
-No debate found; no refusal on record.
+[DeCristofaro (D)](https://lexingtonconcordcourier.com/articles/decristofaro-seeks-middlesex-register-of-probate-seat-mvleo59x) · Martorella (Justice for All)
 
 tie **10⁻⁸·¹**
 
@@ -79,14 +75,7 @@ tie **10⁻⁸·¹**
 
 Voted district-wide, [all 12 towns](https://www.thereadingobserver.com/letters-to-the-editor/lte-candidacy-for-northeast-metro-tech-school-committee).
 
-[Perry](https://goodparty.org/people/james-perry-43915e91) · [Salazar](https://thereadingpost.com/2026/10/09/lte-my-candidacy-for-the-northeast-metro-tech-school-committee/)
-
-[Salazar appointed Jan 28, split vote](https://citizenportal.ai/articles/8323539/massachusetts/school-boards/malden-public-schools/malden-committee-appoints-everett-teacher-sean-salazar-as-liaison-to-northeast-metro-tech-after-split-vote)
-[Salazar interview](https://citizenportal.ai/articles/9474102/massachusetts/school-boards/malden-public-schools/sean-salazar-emphasizes-classroom-experience-chapter-74-expertise-and-industry-ties)
-[candidate list](https://www.cityofmalden.org/DocumentCenter/View/11665/2026-Voke-School-Committee-Candidates-English-PDF)
-[ballot](ballots/malden-33rd-middlesex-2026-11-03.pdf)
-
-No forum found; no refusal on record. No Perry statement found.
+Perry · [Salazar](https://thereadingpost.com/2026/10/09/lte-my-candidacy-for-the-northeast-metro-tech-school-committee/)
 
 tie **10⁻⁴·⁸**
 
@@ -126,8 +115,6 @@ tie **10⁻⁵·⁶**
 
 ## Q4 — Election-day registration
 
-No debate found; no refusal on record
-
 [GBH explainer](https://www.youtube.com/watch?v=rTuAn6HMpsA) · [hearing video](https://malegislature.gov/Events/Hearings/Detail/5603)
 
 [Globe: Yes](https://www.bostonglobe.com/2026/10/29/opinion/2026-massachusetts-election-ballot-question-endorsements/) · [ACX: Yes 8–1](https://docs.google.com/document/d/1dxSeXrFKr89jXFCMjR6bb36pxKIaryKBbW-2xA3mwLc/edit)
@@ -137,8 +124,6 @@ tie **10⁻⁶·⁵**
 ## Q5 — Tax cap rebates (62F)
 
 [text](https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-information-for-voters/2026-ballot-question5.htm) · [AG summary](https://www.mass.gov/doc/final-summary-for-25-17-initiative-petition-for-a-law-relative-to-limiting-state-tax-collection-growth-and-returning-surpluses-to-taxpayers/download)
-No debate found; no refusal on record
-
 [GBH explainer](https://www.youtube.com/watch?v=788ocIpUFiY)
 [hearing video](https://malegislature.gov/Events/Hearings/Detail/5631)
 [$200–250/yr refund](https://tufts.app.box.com/v/cSPA-Q5-2026)
